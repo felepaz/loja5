@@ -1,0 +1,14 @@
+LOJA SIMPLES & SOFISTICADO
+
+COMO EDITAR
+- produtos.js: número do WhatsApp, nomes, preços (com ponto, ex.: 35.90) e descrições.
+- style.css: cores e visual.
+
+FOTOS
+Coloque as fotos SOLTAS junto com o index.html, com estes nomes (qualquer extensão: jpg, jpeg, png, webp):
+produto1, produto2, produto3, produto4, produto5 e logo.
+Tudo em minúsculas, sem espaços e sem acento.
+
+PUBLICAR NO GITHUB
+Envie todos os arquivos soltos (index.html na raiz) em Add file > Upload files.
+Settings > Pages > Branch main > / (root) > Save.
